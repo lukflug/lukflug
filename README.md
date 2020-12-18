@@ -16,6 +16,13 @@ I'm a 17 year old selft-taught amature programmer.
 * Help regarding PanelStudio.
 * Help regarding GameSense.
 
+### Main general-purpose languages
+* Java
+* C
+* C++
+* FreeBASIC
+* x86 Real-Mode Assembly
+
 ### Statistics
 ![user stats](https://github-readme-stats.vercel.app/api?username=lukflug&count_private=true&show_icons=true)
 
