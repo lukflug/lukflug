@@ -5,7 +5,7 @@ I'm a 17 year old selft-taught amateur programmer.
 * [PanelStudio](https://github.com/lukflug/PanelStudio) (a library for Minecraft utility mods).
 * [GameSense](https://github.com/IUDevman/gamesense-client) (an open-source Minecraft utility mod).
 * CyberHack (a private Minecraft utility mod developed by Cyber et al.).
-* [Café Client](https://github.com/CafeDevelopment) (a private Minecraft utility mod developed by Reap et al.).
+* ~~[Café Client](https://github.com/CafeDevelopment) (a private Minecraft utility mod developed by Reap et al.).~~
 * Blocks (a WIP voxel game).
 * LK-DOS (a WIP operating system).
 
