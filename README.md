@@ -11,7 +11,7 @@ I'm a 18 year old selft-taught amateur programmer.
 
 ### Random stuff
 * [YakJava](https://github.com/lukflug/yakjava) (an interpreted programming language with booleans as the only type).
-* [My website](https://lukflug.github.io) (consists of PanelStudio stuff and a little JavaScript logo generator).
+* [My website](https://lukflug.github.io) (consists of PanelStudio stuff and a simple JavaScript logo generator).
 * [My hartree equation solver](https://github.com/lukflug/hartree-solver) (a simple program that numerically solves the Hartree Equation in a central field approximation).
 
 ### Ask me about
