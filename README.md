@@ -8,6 +8,7 @@ I'm an 18 year old selft-taught amateur programmer.
 * ~~[Café Client](https://github.com/CafeDevelopment) (a private Minecraft utility mod developed by Reap et al.).~~
 * Blocks (a WIP voxel game).
 * LK-DOS (a WIP operating system).
+* [LibreDOS](https://github.com/mintsuki-org/LibreDOS) (another WIP operating system).
 
 ### Random stuff
 * [YakJava](https://github.com/lukflug/yakjava) (an interpreted programming language with booleans as the only type).
