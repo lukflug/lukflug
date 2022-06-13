@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm an 18 year old self-taught amateur programmer.
+I'm an 19 year old self-taught amateur programmer.
 
 ### I’m currently working on
 * [PanelStudio](https://github.com/lukflug/PanelStudio) (a library for Minecraft utility mods).
