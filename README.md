@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm a 21 year old self-taught amateur programmer.
+I'm a 22 year old self-taught amateur programmer.
 
 ### I’m currently working on
 * [PanelStudio](https://github.com/lukflug/PanelStudio) (a library for Minecraft utility mods).
@@ -8,7 +8,7 @@ I'm a 21 year old self-taught amateur programmer.
 * ~~[Café Client](https://github.com/CafeDevelopment) (a private Minecraft utility mod developed by Reap et al.).~~
 * Blocks (a WIP voxel game).
 * LK-DOS (a WIP operating system).
-* [LibreDOS](https://github.com/mintsuki-org/LibreDOS) (another WIP operating system by Mint et al.).
+* ~~[LibreDOS](https://github.com/mintsuki-org/LibreDOS) (another WIP operating system by Mint et al.).~~
 
 ### Random stuff
 * [YakJava](https://github.com/lukflug/yakjava) (an interpreted programming language with booleans as the only type).
